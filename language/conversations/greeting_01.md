@@ -10,7 +10,7 @@ hi
 * welcome
 
 goodbye
-* greeting
+* goodbye
 
 < Bye! Have a greate day
 * goodbye
